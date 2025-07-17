@@ -31,7 +31,7 @@ A webpage to educate users of heat illness symptoms and signs.
 
 ## 💻 Tech Stack
 
-- **Languages**: Python, JavaScript, C#, C++, HTML/CSS  
+- **Languages**: Python, R, C++, C#, JavaScript, HTML/CSS, KQL
 - **Frameworks/Tools**: Jupyter Notebooks, Unity, Pandas, NumPy, Scikit-learn  
 - **AI/ML**: KNN, Decision Trees, Logistic Regression (from scratch), Model Evaluation (cross-validation, precision/recall, ROC-AUC), Feature Selection, Hyperparameter Tuning, Clustering, Neural Networks, CNNs, Sentiment Analysis (NLP) 
 - **Other**: GitHub, REST APIs, Responsible AI (fairness, bias mitigation, HIPAA)
